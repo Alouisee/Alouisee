@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hello%2C+world!+I'm+Polyana+Oliveira.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="![image](https://github.com/user-attachments/assets/82ccc444-7938-4bf7-8c23-a5b48c4d3989)" alt="Pixel Art" align="right" width="200">
+<img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
