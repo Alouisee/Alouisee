@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hello%2C+world!+I'm+Polyana+Oliveira.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/066/583/817/original/camila-xiao-city-skyline2-2.gif?1693262309" alt="Pixel Art" align="right" width="200">
+<img src="![image](https://github.com/user-attachments/assets/7ebd00bc-d782-4304-84f5-e60ba37cb97a)" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
